@@ -1,0 +1,6 @@
+#SERVER:
+0 0 0 0 0 directory/file/test.py
+
+#SCRIPTS:
+
+0 0 * * * /user/bin Task1/test.py
